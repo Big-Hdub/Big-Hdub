@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on a M.U.D. game development.
 - ⚡ Fun fact: I coached Volleyball for 6 years and have played volleyball competitively most of my life.
 - 🏓 Hobbies: ⌨️ Programming, 🏐 Volleyball, 🎣 Fishing, 🪵 Woodworking, and 🎮 Video games
-- 📫 How to reach me hdub-bb@hotmail.com
+- 📫 How to reach me: harrywagner.dev@outlook.com
 
 About me:
 
