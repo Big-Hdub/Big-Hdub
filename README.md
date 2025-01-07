@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harry Wagner @Big-Hdub.
 - 👨🏼‍💻 Portfolio: https://big-hdub.github.io
 - 📜 Resume: https://docs.google.com/document/d/1_8guPh-fLFironQJ0Ve5Tn0aHD0Woxe6HonpQIqwwQc/edit?usp=sharing
-- 🔗 LinkedIn: www.linkedin.com/in/harry-wagner-7784a0123
+- 🔗 LinkedIn: www.linkedin.com/in/harrywagner-dev
 - 👀 I’m interested in python, javascript, software development, and machine learning.
 - 🌱 I’m currently working on adding to my projects that I created at App Academy while looking for a job.
 - 💞️ I’m looking to collaborate on a M.U.D. game development.
