@@ -1,17 +1,48 @@
-- 👋 Hi, I’m Harry Wagner @Big-Hdub.
-- 👨🏼‍💻 Portfolio: https://big-hdub.github.io
-- 📜 Resume: https://docs.google.com/document/d/1_8guPh-fLFironQJ0Ve5Tn0aHD0Woxe6HonpQIqwwQc/edit?usp=sharing
-- 🔗 LinkedIn: www.linkedin.com/in/harrywagner-dev
-- 👀 I’m interested in python, javascript, software development, and machine learning.
-- 🌱 I’m currently working on adding to my projects that I created at App Academy while looking for a job.
-- 💞️ I’m looking to collaborate on a M.U.D. game development.
-- ⚡ Fun fact: I coached Volleyball for 6 years and have played volleyball competitively most of my life.
-- 🏓 Hobbies: ⌨️ Programming, 🏐 Volleyball, 🎣 Fishing, 🪵 Woodworking, and 🎮 Video games
-- 📫 How to reach me: harrywagner.dev@outlook.com
+👋 Hi, I'm Harry Wagner
 
-About me:
+I'm a software engineer with professional experience developing and maintaining automated end-to-end testing using JavaScript and Playwright, along with full-stack development experience using Python, Flask, SQLAlchemy, React, and PostgreSQL.
 
-  I am 43 years old and switching careers.  I have done construction and apartment management for 20+ years and as my body has started to fail me I am turning to a hobby for a new career path.  I am excited to apply all that I have learned at App Academy to get started on this path.  My loving wife and 3 kids have been very supportive of me during this transition and all the time I have needed to devote to studying and learning new languages and skills.  I am hard-working and willling to go the extra mile to be able to support and provide for my wonderful family.
+- 👨🏼‍💻 Portfolio: big-hdub.github.io
+- 📜 Resume: Google Docs Resume
+- 🔗 LinkedIn: linkedin.com/in/harrywagner-dev
+- 📧 Email: harrywagner.dev@outlook.com
+- 💻 What I Do
+  - Develop and maintain automated E2E test suites using JavaScript and Playwright
+  - Investigate and diagnose application and test failures within strict SLA requirements
+  - Work with CI/CD-integrated testing and troubleshoot test infrastructure issues
+  - Build full-stack applications using Python, Flask, React, SQLAlchemy, and PostgreSQL
+  - Focus on writing reliable, maintainable code and continuously improving my technical skills
+- 🚀 Currently
+
+I'm continuing to expand my software engineering skills through personal projects and hands-on development. I'm particularly interested in backend development with Python, while continuing to grow my experience across the full software development lifecycle.
+
+I'm also interested in building a M.U.D. (Multi-User Dungeon) game as a long-term project and exploring ways to use it as a platform for learning and experimenting with Python, object-oriented programming, and game development.
+
+🛠️ Technologies
+
+Languages: Python, JavaScript, SQL
+Backend: Flask, SQLAlchemy, Express.js, Sequelize, PostgreSQL
+Frontend: React, Redux, HTML, CSS
+Testing: Playwright, End-to-End Testing
+Tools: Git, CI/CD, AWS
+
+📚 Background
+
+Before transitioning into software engineering, I spent more than two decades working in construction and property management. Those experiences taught me to solve complex problems, manage competing priorities, work independently, communicate with customers and teams, and take ownership of getting a job done.
+
+I completed App Academy's 1,000-hour Full-Stack Developer Program, where I built applications using Python, JavaScript, React, Flask, SQL, PostgreSQL, and other modern web technologies.
+
+I then put that training into practice professionally at QA Wolf, progressing from QA Engineer 1 to QA Engineer 2 and gaining hands-on experience with automated testing, debugging, CI/CD workflows, and real-world client applications.
+
+⚡ Outside of Code
+
+- 🏐 Volleyball — player and coach for 30+ years
+- 🎮 Video games
+- 🪵 Woodworking
+- 🎣 Fishing
+- ⌨️ Programming and building personal projects
+
+I'm always interested in learning something new, solving difficult problems, and finding better ways to build reliable software.
 
 The family and I at the beach.
 
