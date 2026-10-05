@@ -3,7 +3,7 @@
 I'm a software engineer with professional experience developing and maintaining automated end-to-end testing using JavaScript and Playwright, along with full-stack development experience using Python, Flask, SQLAlchemy, React, and PostgreSQL.
 
 - 👨🏼‍💻 Portfolio: big-hdub.github.io
-- 📜 Resume: Google Docs Resume
+- 📜 Resume: [Google Docs Resume](https://docs.google.com/document/d/1ueVbEHIb48vS8B8mI014W4PU7yZmdGmoEYPGCyTDfLg/edit?usp=sharing)
 - 🔗 LinkedIn: linkedin.com/in/harrywagner-dev
 - 📧 Email: harrywagner.dev@outlook.com
 - 💻 What I Do
