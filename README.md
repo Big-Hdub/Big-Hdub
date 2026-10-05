@@ -12,7 +12,8 @@ I'm a software engineer with professional experience developing and maintaining 
   - Work with CI/CD-integrated testing and troubleshoot test infrastructure issues
   - Build full-stack applications using Python, Flask, React, SQLAlchemy, and PostgreSQL
   - Focus on writing reliable, maintainable code and continuously improving my technical skills
-- 🚀 Currently
+
+🚀 Currently
 
 I'm continuing to expand my software engineering skills through personal projects and hands-on development. I'm particularly interested in backend development with Python, while continuing to grow my experience across the full software development lifecycle.
 
